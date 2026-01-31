@@ -7,10 +7,16 @@ repo_name: Đóng góp chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Immersion': 'immersion.md'
-  - 'Tài nguyên học': 'learning-resources.md'
-  - 'Tổng hợp': 'resources.md'
+  - 'Hướng dẫn':
+    - 'Tự học Tiếng Hàn': 'guide.md'
+    - 'Immersion': 'immersion.md'
+    - 'Đọc Tiếng Hàn': 'reading.md'
+    - 'Hanja (Hán tự Tiếng Hàn)': 'hanja.md'
+    - 'Kính ngữ': 'kinh-ngu.md'
+    - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên học': 'learning-resources.md'
+    - 'Nội dung Tiếng Hàn': 'resources.md'
       
 theme:
   palette:
@@ -34,7 +40,8 @@ theme:
   logo: img/logo.png
   favicon: img/logo.png
   features:
-    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.sections
     - navigation.expand
     - search.suggest

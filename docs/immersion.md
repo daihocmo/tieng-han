@@ -41,8 +41,3 @@ Bài viết này Vi dịch ra từ 1 phần của YouTube video phỏng vấn an
 Cuối tuần Vi vừa nghe podcast của “Have a sip”, tập chị Thùy Minh phỏng vấn chị Phoebe Trần - MC chương trình IELTS Face-off.
 
 Trong podcast, chị Thuỳ Minh kể trải nghiệm nhờ từ việc phim Sex and city mà được cô hải quan khen nói tiếng Anh giỏi, chị Phoebe kể việc học tiếng Nhật tốt (N2) nhờ việc xem phim thâu đêm đến nỗi mắt thâm, đáng yêu nhờ :))) Mọi người nghe thử nhé~
-
-
-
-
-

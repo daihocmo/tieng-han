@@ -1,6 +1,7 @@
 # Tài nguyên học Tiếng Hàn
 
 ## Tự học các thứ
+
 ### Ngữ âm
 - [YouGlish](https://youglish.com/korean): Cho phép tra cứu từ trên YouTube để xem cách người bản xứ phát âm từ đó.
 - [Forvo](https://forvo.com/languages/ko/): Nơi tra cứu cách phát âm từ bởi người bản xứ.
@@ -72,8 +73,3 @@
 - [Korean Internet Neologisms](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%8B%A0%EC%A1%B0%EC%96%B4_%EB%AA%A9%EB%A1%9D): Danh sách từ mới trên Internet của Hàn Quốc.
 - [Zone Hanja Dictionary](http://www.zonmal.com/): Từ điển Hán tự và nội dung liên quan.
 - [Naver Hanja Dictionary](https://hanja.dict.naver.com/): Từ điển Hán tự với chức năng nhập chữ viết tay, danh sách từ và thông tin nguồn gốc.
-
-
-### Credit
-
-Phần lớn các nội dung được trích dẫn từ [Refold Korean](https://refold.link/korean), bản nháp được biên soạn bởi Grok (xAI) và đang được mình cập nhật dần.

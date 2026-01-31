@@ -13,13 +13,8 @@
 - [Learn Korean in Korean](https://www.youtube.com/channel/UCQJhoF0nZwaVPSPNPIQhLmg): Nhiều video luyện nghe và giới thiệu ngữ pháp tiếng Hàn.
 - [Intuit Korean](https://www.youtube.com/channel/UC5ixjApuU6oJHS540E_SSSw): Đọc chậm một câu chuyện bằng tiếng Hàn theo phương pháp nhập liệu dễ hiểu.
 - [Learn Real Korean](https://www.youtube.com/channel/UCMx6DvyVefA7L0FMBTS-sQ): Dựa trên khái niệm nhập liệu dễ hiểu, cung cấp nội dung học tiếng Hàn thực tế.
-- webdrama ngắn trên YouTube:
-      - [tvN D STORY](https://www.youtube.com/user/insiteTV1)
-      - [KOK TV](https://www.youtube.com/channel/UCybPxZoFDPR1qbN04daAc2g)
-      - [짧은대본](https://www.youtube.com/channel/UChgOgRNxrtCcVARDQT_c-Zg)
-      - [픽고](https://www.youtube.com/c/%ED%94%BD%EA%B3%A0PickGo)
-      - [PLAYLIST Originals](https://www.youtube.com/channel/UCid83oBKR-99dg4rPy69CXg)
-    - Các bộ phim như [Gaduri Restaurant](https://www.vlive.tv/video/195373), [7일만 로맨스](https://www.youtube.com/watch?v=WvQmPZpHx_8&list=PLqqQvcAR1H0lvElJjtKv5x6qFq8NPP-fw), [My Fuxxxxx Romance](https://www.youtube.com/watch?v=8LnX_qIR2Is), v.v. là những bộ phim dễ tiếp cận.
+- webdrama ngắn trên YouTube: - [tvN D STORY](https://www.youtube.com/user/insiteTV1) - [KOK TV](https://www.youtube.com/channel/UCybPxZoFDPR1qbN04daAc2g) - [짧은대본](https://www.youtube.com/channel/UChgOgRNxrtCcVARDQT_c-Zg) - [픽고](https://www.youtube.com/c/%ED%94%BD%EA%B3%A0PickGo) - [PLAYLIST Originals](https://www.youtube.com/channel/UCid83oBKR-99dg4rPy69CXg)
+  - Các bộ phim như [Gaduri Restaurant](https://www.vlive.tv/video/195373), [7일만 로맨스](https://www.youtube.com/watch?v=WvQmPZpHx_8&list=PLqqQvcAR1H0lvElJjtKv5x6qFq8NPP-fw), [My Fuxxxxx Romance](https://www.youtube.com/watch?v=8LnX_qIR2Is), v.v. là những bộ phim dễ tiếp cận.
 - Hoạt hình:
     - [장삐쭈](https://www.youtube.com/channel/UChbE5OZQ6dRHECsX0tEPEZQ)
     - [키에커](https://www.youtube.com/c/%ED%82%A4%EC%97%90%EC%BB%A4)
@@ -42,6 +37,7 @@
 - [Viki](https://www.viki.com/): Hơn 800 phim truyền hình Hàn Quốc với phụ đề do cộng đồng tình nguyện thực hiện. Khoảng 280 phim và một số bộ phim có phụ đề tiếng Hàn hoàn chỉnh.
 
 ### Đọc
+
 - [Kid's Dong-a](http://kids.donga.com/): Trang tin tức viết dành cho trẻ em, sử dụng ngôn ngữ đơn giản, phù hợp cho người mới học.
 - [외국인을 위한 한국어 읽기](https://ridibooks.com/author/43928?page=1): Bộ truyện dân gian 77 phần, mỗi phần gồm 3 câu chuyện, dành cho người học tiếng Hàn.
 - [미피 (Nijntje)](http://www.bandibookus.com/)
@@ -49,11 +45,12 @@
 - [Reading Korean with Culture](http://www.darakwon.co.kr/koreanbooks/book_view.asp?bookid=142&lg=en): Sách đọc theo cấp độ của Darakwon, tập trung vào các khía cạnh văn hóa Hàn Quốc.
 - [Yonsei Korean Reading Textbooks](https://www.koreantopik.com/2018/04/yonsei-korean-reading-1234-pdfaudio.html): Bộ sách đọc 6 tập, từ đơn giản đến nâng cao.
 
-
 ## Nội dung Tiếng Hàn (Cấp độ 1?)
+
 Không quá dễ, mà cũng không quá khó....
 
 ### Truyện tranh
+
 - [2011 미스테리 단편](https://comic.naver.com/webtoon/list.nhn?titleId=350217): Những câu chuyện bí ẩn ngắn của các tác giả Naver WebToons, phù hợp cho người mới học.
 - [2015 소름](https://comic.naver.com/webtoon/list.nhn?titleId=657934): Bộ sưu tập truyện kinh dị ngắn mùa hè năm 2015, dễ tiếp cận.
 - [2016 비명](https://comic.naver.com/webtoon/list.nhn?titleId=682803): Truyện kinh dị ngắn mùa hè năm 2016, dành cho người không sợ hãi.
@@ -74,6 +71,7 @@ Không quá dễ, mà cũng không quá khó....
 - [혼집](https://comic.naver.com/webtoon/detail.nhn?titleId=750198&no=1&weekday=fri): Câu chuyện kinh dị về một ngôi nhà mới có điều bất thường.
 
 ### Đọc
+
 - Reading Tools:
     - [Vocab Tracker](https://www.vocabtracker.com/getpage/Auth/Login) và [Korean Reader](https://koreanreader.com/): Trang web đọc lấy cảm hứng từ Lingq, hỗ trợ đọc tiếng Hàn hiệu quả, nhưng không hiển thị dạng gốc của từ đã chia hoặc có hậu tố.
     - [Reader ttsu](https://github.com/ttu-ttu/ebook-reader): Trình đọc sách trực tuyến hỗ trợ tiện ích mở rộng trình duyệt như Yomichan.
@@ -99,6 +97,7 @@ Không quá dễ, mà cũng không quá khó....
     - [나는 아직 살아있다](https://ridibooks.com/books/2749005088): Tiểu thuyết web về thảm họa zombie tại Seoul, 12 cuốn, câu ngắn, lặp lại nhiều.
 
 ### Video
+
 - Narrative:
     - [심야서점](https://www.youtube.com/channel/UCAa90RXWUC92BFcyK5sc1fA) và [왓섭! 공포라디오](https://www.youtube.com/channel/UC5ND7OLp4FVa9NEH-8LP3Jw): Các câu chuyện kinh dị cung cấp cái nhìn sâu sắc về văn hóa Hàn Quốc.
     - [Deeva Jessica](https://www.youtube.com/channel/UCh6O-aBKR-99dg4rPy69CXg) và [Kim Won](https://www.youtube.com/channel/UCRSEOIfPNgUYY8xkEzxqfVg): Các video tài liệu về lịch sử, tội phạm thực tế.
@@ -109,13 +108,15 @@ Không quá dễ, mà cũng không quá khó....
     - [외국인을 위한 한국어 읽기](https://audioclip.naver.com/channels/57): 165 podcast trên Naver Audioclip (kết thúc năm 2017).
     - [Audien](http://www.audien.com/wpoc/main.htm): Cung cấp sách nói và podcast.
     - [Welaaa](https://www.welaaa.com/): Nhiều sách nói rút gọn.
-    - YouTube Channels: Các kênh như [모험러의 책방](https://www.youtube.com/channel/UCabZS6J_cfar9sT-fCGNXGQ), [책읽는다락방](https://www.youtube.com/channel/UCFgsa4kjz6P0MLQHEvQpsRQ), [따듯한 목소리 현준](https://www.youtube.com/channel/UCwzLJSRcPOIPXTRt77HI6iA), v.v. cung cấp sách nói tiếng Hàn.
-    - Famous Books: Sách nói của các tác phẩm nổi tiếng như *Catcher in the Rye*, *The Hound of the Baskervilles*, *The Little Prince*, v.v. có trên YouTube (thêm “읽어주는” vào từ khóa tìm kiếm).
+  - YouTube Channels: Các kênh như [모험러의 책방](https://www.youtube.com/channel/UCabZS6J_cfar9sT-fCGNXGQ), [책읽는다락방](https://www.youtube.com/channel/UCFgsa4kjz6P0MLQHEvQpsRQ), [따듯한 목소리 현준](https://www.youtube.com/channel/UCwzLJSRcPOIPXTRt77HI6iA), v.v. cung cấp sách nói tiếng Hàn.
+  - Famous Books: Sách nói của các tác phẩm nổi tiếng như _Catcher in the Rye_, _The Hound of the Baskervilles_, _The Little Prince_, v.v. có trên YouTube (thêm “읽어주는” vào từ khóa tìm kiếm).
 
 ## Nội dung bản ngữ
+
 Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
 
 ### TV/Movies (Phim truyền hình/Phim điện ảnh)
+
 - Netflix: [Danh mục đầy đủ](https://unogs.com/).
 - Streaming:
     - [Watcha](https://watcha.com/): Bộ sưu tập nội dung Hàn Quốc tuyệt vời.
@@ -130,6 +131,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
     - [애니타임](https://www.youtube.com/channel/UCd4XcQc2qB1W1KGGbN1HrDw): Anime lồng tiếng Hàn đầy đủ.
 
 ### Reading: Comics/Novels/Books (Truyện tranh/Tiểu thuyết/Sách)
+
 - Comics:
     - [Naver Comics](https://comic.naver.com/index.nhn): Truyện tranh web.
     - [Kakao WebToons](https://webtoon.kakao.com/): Truyện tranh web.
@@ -184,6 +186,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
     - [Hangeul Park](https://hangeulpark.com/eng/company/info.asp): Nguồn sách tốt dành cho người học tiếng Hàn.
 
 ### Blogs/Websites
+
 - [Doomok’s Book Reviews](https://doomoks.tistory.com/): Blog đánh giá sách.
 - [신동아](https://shindonga.donga.com/), [한겨레21](http://h21.hani.co.kr/), [월간조선](https://monthly.chosun.com/): Tạp chí tin tức.
 - [한국일보](https://www.hankookilbo.com/), [조선일보](https://www.chosun.com/): Báo chí hàng ngày.
@@ -205,6 +208,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
 - [Segye](https://segye.com/entertainment): Tin tức giải trí.
 
 ### Listening: Podcasts/Audiobooks
+
 - Listening Services:
     - [Audioclip by NAVER](https://audioclip.naver.com/): Dịch vụ podcast có trên [App Store](https://apps.apple.com/us/app/%EC%98%A4%EB%94%94%EC%98%A4%ED%81%B4%EB%A6%BD-audioclip/id1192635213) và [Android Store](https://play.google.com/store/apps/details?id=com.naver.naveraudio&hl=en_US&gl=US).
     - [팟빵](http://www.podbbang.com/): Bộ sưu tập podcast tiếng Hàn, có trên [App Store](https://apps.apple.com/us/app/%ED%8C%9F%EB%B9%B5/id612769954) và [Android Store](https://play.google.com/store/apps/details?id=com.makeshop.podbbang&hl=en_US&gl=US).
@@ -213,6 +217,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
     - [문학줍줍](https://www.youtube.com/channel/UCPTgchmtIG4ZElcR-0okIYw): Kênh YouTube thảo luận và đánh giá sách, bao gồm chuỗi về cách hiểu các tác phẩm kinh điển.
 
 ### Talkshows
+
 - [지금 이 사람](http://program.kbs.co.kr/1radio/radio/nowhuman/pc/index.html): Chương trình phỏng vấn của KBS do 정관용 dẫn dắt, trò chuyện với khách mời về nhiều lĩnh vực.
 - [링톡](http://www.podbbang.com/ch/1778932): Podcast về trải nghiệm học ngoại ngữ của hai người Hàn Quốc.
 - [수다일리스트](https://www.podbbang.com/channels/12332): Podcast hài hước dành cho người trẻ.
@@ -221,6 +226,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
 - [수다녀들](https://youtube.com/playlist?list=PLc6lZzOWZpl8uaG57G1iMdxzBtLgESuMy): Chương trình trò chuyện trên YouTube.
 
 ## Video theo thể loại/sở thích
+
 - News/Documentary:
     - [KBS News](https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A), [TVn](https://www.youtube.com/channel/UC78PMQprrZTbU0IlMDsYZPw), [YTN](https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w): Các kênh tin tức.
     - [EBS Documentary](https://www.youtube.com/channel/UCFCtZJTuJUDYW1WImzV3gbKQ): Tài liệu và clip trên YouTube.
@@ -240,7 +246,7 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
     - [이상엽 (수학의신)](https://www.youtube.com/c/%EC%9D%B4%EC%83%81%EC%97%BD%EC%88%98%ED%95%99%EC%9D%98%EC%8B%A0): Bài giảng về toán học, bao gồm lý thuyết tập hợp, đại số tuyến tính, phân tích và lịch sử toán học.
     - [KOCW](http://www.kocw.net/home/index.do), [K-MOOC](http://www.kmooc.kr/), [늘배움](http://www.lifelongedu.go.kr/man/sdy/eduDown.do?tm=91&sm=5&nav=2): Các khóa học trực tuyến đại học.
     - [EBSi](https://www.youtube.com/channel/UCDkTanNuZGwYtf-Y6_xBmqw), [단꿈교육](https://www.youtube.com/user/tghistoryqr): Bài giảng trực tuyến cho học sinh trung học.
-    - History Channels: [인문채널휴](https://www.youtube.com/channel/UCy93F5_zlP2e6NrIKwFpw4w), [두선생의 역사공장](https://www.youtube.com/user/yjune0307), [Lost Heritage](https://www.youtube.com/channel/UCBXdjDEAs_zRN5n5SGwYtf-Y6_xBmqw), [효기심](https://www.youtube.com/channel/UC8tYgnrcFXkGNRe7QN-s2pS4Bw), [원유철 한국사 TV](https://www.youtube.com/channel/UCPnCIdjk9BQ8_Tb0Eq_bU5g), [역사술사](https://www.youtube.com/channel/UC4dqvirw5WwZDLUyCMPA-uA): Các kênh về lịch sử.
+  - History Channels: [인문채널휴](https://www.youtube.com/channel/UCy93F5_zlP2e6NrIKwFpw4w), [두선생의 역사공장](https://www.youtube.com/user/yjune0307), [Lost Heritage](https://www.youtube.com/channel/UCBXdjDEAs_zRN5n5SGwYtf-Y6_xBmqw), [효기심](https://www.youtube.com/channel/UC8tYgnrcFXkGNRe7QN-s2pS4Bw), [원유철 한국사 TV](https://www.youtube.com/channel/UCPnCIdjk9BQ8_Tb0Eq_bU5g), [역사술사](https://www.youtube.com/channel/UC4dqvirw5WwZDLUyCMPA-uA): Các kênh về lịch sử.
 - Comedy:
     - [코미디빅리그](https://www.youtube.com/user/COMEDYBIGLEAGUE): Kênh hài với nhiều vở hài kịch trực tiếp.
     - [짤툰](https://www.youtube.com/channel/UCszFjh7CEfwDb7UUGb4RzCQ): Hoạt hình ngắn vui nhộn, có phụ đề nhiều ngôn ngữ.
@@ -301,8 +307,6 @@ Tiêu thụ nội dung Tiếng Hàn, làm bởi người Hàn cho người Hàn.
     - [털몽치](https://www.youtube.com/channel/UCrL4j_YJl_z7X89mJ03ow): Hướng dẫn đan len, không có phụ đề.
     - [집꾸미기](https://www.youtube.com/channel/UChmUHlBjbIquOygkGNRe7QN-s2pS4Bw): Ý tưởng trang trí nội thất.
     - [몽종다과](https://www.youtube.com/channel/UCguzIEj_YJl_z7X89mJ03ow): Video làm mô hình thực phẩm chân thực bằng đất sét và sơn, có phụ đề.
-
-
 
 ## Credit
 
