@@ -30,6 +30,11 @@ Yêu cầu:
 
 Chọn một hướng dẫn ngữ pháp và bắt đầu học. Dưới đây là một số hướng dẫn ngữ pháp mà bạn có thể sử dụng:
 
+- [NGỮ PHÁP TIẾNG HÀN TỔNG HỢP SƠ CẤP 1 (Full)](https://www.youtube.com/playlist?list=PL2A1OEE5sYWpA_bTPdwNOeV-Qi0uRVRmo)
+
+Đây là danh sách các trang để bạn học các cấu trúc ngữ pháp:
+
+- [Ngữ pháp Tiếng Hàn sơ cấp - The Free Korean](https://thefreekorean.com/grammar/)
 - [Ngữ Pháp Tiếng Hàn - Bomi](https://bomi.vn/hoc-tieng-han-quoc/ngu-phap-tieng-han/)
 - [하여 Ngữ Pháp Tiếng Hàn](https://www.tuhoctienghan.vn/ngu-phap/)
 - [Ngữ pháp Tiếng Hàn - MasterKorean](https://blog.masterkorean.vn/ngu-phap)
@@ -41,7 +46,11 @@ Sau khi "học xong" ngữ pháp cơ bản, bạn có thể bắt đầu đọc 
 
 ### Từ vựng
 
-Mình nghĩ rằng việc học từ vựng quan trọng hơn ngữ pháp, vì không có ích gì khi học ngữ pháp trung cấp hay nâng cao nếu bạn còn không hiểu những từ xuất hiện trong các câu đơn giản. Mình sử dụng Anki để học và ôn tập từ vựng. [Evita's Anki Deck]() là bộ thẻ (flashcards) mà mình thấy rất phù hợp để xây dựng vốn từ vựng.
+Mình nghĩ rằng việc học từ vựng quan trọng hơn ngữ pháp, vì không có ích gì khi học ngữ pháp trung cấp hay nâng cao nếu bạn còn không hiểu những từ xuất hiện trong các câu đơn giản. Mình sử dụng Anki để học và ôn tập từ vựng. [2k Essential Beginner Vocab by Mar](https://ankiweb.net/shared/info/1367759589) là bộ thẻ (flashcards) mà mình thấy rất phù hợp để xây dựng vốn từ vựng. Nhưng bộ thẻ này là Hàn - Anh, còn Hàn - Việt thì có thể dùng bộ Tiếng Hàn tổng hợp của AnkiVN: 
+
+- [Tiếng Hàn Tổng Hợp 1](https://ankiweb.net/shared/info/1829052615)
+- [Tiếng Hàn Tổng Hợp 2](https://ankiweb.net/shared/info/322575033)
+- [Tiếng Hàn Tổng Hợp 3](https://ankiweb.net/shared/info/1893954422)
 
 TUY NHIÊN, đừng chỉ cố gắng ghi nhớ từ vựng bằng cách lật thẻ. Dưới đây là phương pháp mình gọi là “không bao giờ quên” để học từ:
 
@@ -63,7 +72,7 @@ Tuy nhiên, nếu bạn không dùng được Anki, thì các bộ thẻ trên M
 
 _Một số video về Immersion mà bạn có thể sẽ muốn xem:_
 
-[How to write Hangul like a native](https://www.youtube.com/watch?v=ZuffPHRYFiU) – Lindie Botes
+[AJATT - Ngoại ngữ Phim và Game: Học từ con số 0, chi phí 0 đồng, không thua kém ai](https://www.youtube.com/watch?v=j0OotbfBAA0)
 
 [How to Learn a Language: INPUT (Why most methods don't work)](https://www.youtube.com/watch?v=J_EQDtpYSNM) – What I've Learned
 
@@ -87,7 +96,7 @@ Thông qua việc tiếp xúc, bạn sẽ ngày càng hiểu sâu hơn về ng�
 
 Sau khi xong bộ thẻ từ vựng cơ bản ở trên, bạn có thể tạo một bộ thẻ mới và ghi lại những câu hoặc cụm từ mới mà bạn học được thông qua quá trình immersion. 
 
-Đọc [“Sentence Mining Explained”]().
+Đọc [Hướng dẫn đào câu (Sentence Mining) cơ bản](https://daihocmo.github.io/ngoai-ngu/sentence-mining/).
 
 Quá trình này còn được gọi là xây dựng một “mining deck”. Mining deck là một bộ thẻ từ vựng do chính bạn xây dựng, gồm những từ bạn chưa biết mà bạn gặp khi đọc. Tiện ích trình duyệt (extension) [Yomitan](https://yomitan.wiki) giúp đơn giản hóa quá trình này chỉ với một cú nhấp chuột: bạn chỉ cần di chuột lên một từ và bấm nút + trong cửa sổ bật lên để tạo thẻ trong Anki.
 
@@ -118,10 +127,10 @@ Hãy tạo thẻ câu, diễn lại các cảnh, nói theo lời thoại (shadow
 
 Vậy cụ thể mình cần làm gì để học tiếng Hàn?
 
-1. Tra một bảng chữ cái Hangul (ví dụ: (sẽ bổ sung sau)) và viết mỗi ký tự vài lần. Bạn có thể luyện tập với [trang web này](). Hãy đảm bảo bạn nắm vững Hangul trước khi chuyển sang bước tiếp theo.
-2. Evita là bộ Anki deck cho người mới bắt đầu muốn xây dựng vốn từ cơ bản trước khi immerse. Hãy học cách sử dụng Anki qua [Anki startup guide](). Bạn cũng nên cài [Yomitan]() (Firefox/Chrome) để có thể tra từ bằng cách di chuột.
+1. Tra một bảng chữ cái Hangul (ví dụ: (sẽ bổ sung sau)) và viết mỗi ký tự vài lần. Bạn có thể luyện tập với [trang web này](https://entman.github.io/). Hãy đảm bảo bạn nắm vững Hangul trước khi chuyển sang bước tiếp theo.
+2. Evita là bộ Anki deck cho người mới bắt đầu muốn xây dựng vốn từ cơ bản trước khi immerse. Hãy học cách sử dụng Anki qua [Học viện Anki](https://ankivn.com/guides/). Bạn cũng nên cài [Yomitan](https://yomitan.wiki) (Firefox/Chrome) để có thể tra từ bằng cách di chuột.
 3. Vì bạn sẽ học từ vựng song song với ngữ pháp, nên việc điều chỉnh tốc độ học là rất quan trọng. Điều này không có nghĩa là bạn không nên thử thách bản thân. Bạn có thể thay đổi số thẻ mới mỗi ngày trong Anki, nhưng hãy để mặc định trong vài ngày đầu để xem có phù hợp không. Tăng số thẻ nếu bạn thấy còn dư sức, và giảm nếu bạn cảm thấy quá tải (hoặc tự ép mình cố gắng hơn). Khi đã quen, tổng số thẻ cần ôn mỗi ngày thường gấp khoảng 10 lần số thẻ mới (ví dụ: 20 thẻ mới/ngày ≈ 200 thẻ ôn/ngày). Bạn nên đặt giới hạn trên cho số thẻ ôn mỗi ngày ở mức cao nhất có thể, vì việc bỏ lỡ ôn tập sẽ làm ảnh hưởng đến hệ thống lặp lại ngắt quãng (spaced repetition) của Anki. Nếu bạn không theo kịp, hãy giảm số thẻ mới thay vì giới hạn số thẻ ôn.
-4. Để học ngữ pháp, mình gợi ý [TTIMK]() vì nội dung ngắn gọn.
+4. Để học ngữ pháp, mình gợi ý [NGỮ PHÁP TIẾNG HÀN TỔNG HỢP SƠ CẤP 1 (Full)](https://www.youtube.com/playlist?list=PL2A1OEE5sYWpA_bTPdwNOeV-Qi0uRVRmo) vì nội dung ngắn gọn.
 5. Sau khi bạn đã học xong giáo trình ngữ pháp đã chọn, bạn có thể bắt đầu đọc tiếng Hàn. Mặc dù không bắt buộc, nhưng việc đọc sẽ dễ hơn nếu bạn đã đạt khoảng 1000–2000 từ vựng (bạn vẫn sẽ phải tra nhiều từ, nhưng sẽ đỡ vất vả hơn).
 6. Ở giai đoạn này, hầu hết mọi người bắt đầu tạo cho mình một mining deck riêng. Đây là bộ từ vựng mà bạn thêm các từ mới mà bạn học được thông qua quá trình immersion. Bạn nên sử dụng [tích hợp Yomitan với Anki](https://yomitan.wiki), cho phép tạo thẻ Anki mới chỉ với một cú nhấp chuột ([hướng dẫn](https://yomitan.wiki/anki)).
 7. Đọc nhiều hơn. Ban đầu việc đọc sẽ chậm, nhưng càng luyện tập bạn sẽ càng tiến bộ.

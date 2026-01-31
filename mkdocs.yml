@@ -14,6 +14,8 @@ nav:
     - 'Hanja (Hán tự Tiếng Hàn)': 'hanja.md'
     - 'Kính ngữ': 'kinh-ngu.md'
     - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
   - 'Tài nguyên': 
     - 'Tài nguyên học': 'learning-resources.md'
     - 'Nội dung Tiếng Hàn': 'resources.md'

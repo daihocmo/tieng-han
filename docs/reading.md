@@ -20,7 +20,7 @@ Trong Chrome, dùng **Chuột phải -> Dịch sang Tiếng Việt**. *(Nếu kh
 
 *Chọn một bài nghe có vẻ hay*. Sau đó, bắt đầu đọc từng câu một. Với mỗi câu:
 
-1. **Tra từng từ mình không biết** bằng tiện ích trình duyệt [Yomitan]().
+1. **Tra từng từ mình không biết** bằng tiện ích trình duyệt [Yomitan](https://yomitan.wiki).
 2. **Tự dịch câu đó** theo khả năng tốt nhất của mình.
 3. Cuối cùng, **dùng tiện ích [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) để dịch câu** nhằm kiểm tra lại đáp án.
 4. *(Thỉnh thoảng: sử dụng tính năng chuyển văn bản thành giọng nói Tiếng Hàn của [Papago](https://papago.naver.com/) nếu mình muốn được hỗ trợ về nhịp điệu khi đọc to.)*
@@ -55,7 +55,7 @@ Tất nhiên, Google Translate không hoàn hảo, nhưng nó cực kỳ hữu �
 
 ### NHƯNG TRƯỚC HẾT: Cài đặt Yomitan
 
-Nếu bạn cài tiện ích [Google Translate]() và [Yomitan](), bạn có thể tra từ trong từ điển rồi dịch cả câu mà không cần chuyển tab :')!
+Nếu bạn cài tiện ích [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) và [Yomitan](https://yomitan.wiki), bạn có thể tra từ trong từ điển rồi dịch cả câu mà không cần chuyển tab :')!
 
 ### Đừng thêm các từ chưa biết vào thẻ từ vựng; thay vào đó, hãy cố gắng đọc mỗi ngày
 
