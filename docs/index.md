@@ -7,3 +7,8 @@
 Bấm vào nút bên dưới để bắt đầu học ^^!
 
 [:fontawesome-solid-book-open: Đọc hướng dẫn ](guide.md){: .md-button .md-button--primary }  
+
+## Credit
+
+- [TheMoeWay](https://learnjapanese.moe/)
+- [Donkuri](https://donkuri.github.io/learn-japanese/guide/)

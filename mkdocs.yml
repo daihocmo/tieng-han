@@ -9,16 +9,17 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Hàn': 'guide.md'
-    - 'Immersion': 'immersion.md'
     - 'Đọc Tiếng Hàn': 'reading.md'
     - 'Hanja (Hán tự Tiếng Hàn)': 'hanja.md'
     - 'Kính ngữ': 'kinh-ngu.md'
     - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Yomitan':
-    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Thiết lập':
+    - 'Yomitan': 'yomitan.md'
+    - 'Anki': 'anki.md'
   - 'Tài nguyên': 
-    - 'Tài nguyên học': 'learning-resources.md'
-    - 'Nội dung Tiếng Hàn': 'resources.md'
+    - 'Tổng hợp': 'resources.md'
+    - 'Nội dung dễ hiểu': 'input.md'
+    - 'Nội dung Tiếng Hàn': 'content.md'
       
 theme:
   palette:
