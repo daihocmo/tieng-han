@@ -15,9 +15,9 @@ Kính ngữ chủ thể (주체 높임) là hình thức thể hiện sự tôn 
 - Động từ có patchim + 으시.
 - Động từ không có patchim + 시.
 
-![](img/kinh-ngu/1.webp){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" }
+![Hình 1](img/kinh-ngu/1.webp){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" }
 
-### Ví dụ điển hình
+*Ví dụ điển hình:*
 
 1/ 어머니께서 장을 보고 오셔서 맛있는 잡채를 만들어 주셨다.
 
@@ -50,7 +50,7 @@ Kính ngữ khách thể (객체 높임) là loại kính ngữ với đối tư
 
 ![](img/kinh-ngu/2.webp){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" }
 
-### Ví dụ điển hình
+*Ví dụ điển hình:*
 
 1/ 어제는 어머니의 생신이 었습니다.
 
@@ -72,7 +72,7 @@ Kính ngữ đối phương (상대 높임) là kính ngữ với người nghe,
 
 ![](img/kinh-ngu/3.webp){:  style="display: block; margin: 0 auto; max-width:50%; height:auto;" }
 
-### Ví dụ điển hình
+*Ví dụ điển hình:*
 
 1/ 무슨 일이라도 있습니까?
 

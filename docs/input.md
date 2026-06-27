@@ -191,3 +191,10 @@ Truyện tranh Naver dễ tiếp cận (Ít chữ, câu thoại ngắn hằng ng
 - [여중생 A (Nữ sinh trung học A)](https://comic.naver.com/webtoon/list.nhn?titleId=647946) - Tác phẩm tâm lý sâu sắc về cuộc sống cô độc của một nữ sinh nghiện game trực tuyến và hành trình tìm lại bản thân.
 - [운수 오진 날 (Ngày may mắn kinh hoàng)](https://comic.naver.com/webtoon/list.nhn?titleId=745237) - Câu chuyện tâm lý giật gân về một người tài xế taxi vô tình chở phải kẻ sát nhân hàng loạt.
 - [타인은 지옥이다 (Strangers from Hell)](https://comic.naver.com/webtoon/list.nhn?titleId=708378) - Webtoon kinh dị tâm lý nổi tiếng về cuộc sống ngột ngạt và những người hàng xóm quái dị tại một khu nhà trọ giá rẻ (Goshiwon).
+
+## Nguồn
+
+Sưu tầm từ:
+
+- [Complete Beginner Comprehensible Input Resources: 200+ Hours](https://www.reddit.com/r/BeginnerKorean/comments/1hwntzc/complete_beginner_comprehensible_input_resources/)
+- [Korean - CI Wiki](https://comprehensibleinputwiki.org/wiki/Korean)

@@ -74,7 +74,7 @@ Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay m
 
 Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Hàn). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ.
 
-Việc xem một video Tiếng Hàn bất kì trên Youtube, chẳng hạn như [[GOING SEVENTEEN] EP.128 MC 부격돌 : 위험한 초대 #1](https://www.youtube.com/watch?v=27FE8Brbfzs), sẽ được tính là bạn đang "immerse Tiếng Hàn", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Hàn. Nó được viết cho những người nói Tiếng Hàn ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Hàn mà người Anh, Mỹ cũng xem là bạn đang thực hành immersion.
+Việc xem một video Tiếng Hàn bất kì trên Youtube, chẳng hạn như [[GOING SEVENTEEN] EP.128 MC 부격돌 : 위험한 초대 #1](https://www.youtube.com/watch?v=27FE8Brbfzs), sẽ được tính là bạn đang "immerse Tiếng Hàn", bởi vì video này không hề được đơn giản hóa hay giúp cho người học Tiếng Hàn. Nó được viết cho những người nói Tiếng Hàn ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Hàn mà người Hàn cũng xem là bạn đang thực hành immersion.
 
 Theo thuật ngữ thì được gọi là _input_, nhưng mình thích dùng _immersion_ hơn.
 

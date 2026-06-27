@@ -9,16 +9,18 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Hàn': 'guide.md'
-    - 'Đọc Tiếng Hàn': 'reading.md'
-    - 'Hanja (Hán tự Tiếng Hàn)': 'hanja.md'
+    - 'Đọc Tiếng Hàn': 'doc.md'
+    - 'Hướng dẫn đơn ngữ': 'don-ngu.md'
     - 'Kính ngữ': 'kinh-ngu.md'
+    - 'Hanja (Hán tự Tiếng Hàn)': 'hanja.md'
     - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Nội dung':
+    - 'Nội dung dễ hiểu': 'input.md'
   - 'Thiết lập':
     - 'Yomitan': 'yomitan.md'
     - 'Anki': 'anki.md'
   - 'Tài nguyên': 
     - 'Tổng hợp': 'resources.md'
-    - 'Nội dung dễ hiểu': 'input.md'
     - 'Nội dung Tiếng Hàn': 'content.md'
       
 theme:

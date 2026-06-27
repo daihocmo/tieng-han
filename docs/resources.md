@@ -1,5 +1,7 @@
 # Tài nguyên học Tiếng Hàn
 
+**Note:** Do thiếu khá nhiều học liệu miễn phí bằng Tiếng Việt và hiện tại mình đang đi tìm, tổng hợp hoặc tự làm dần nên có thể sẽ mất kha khá thời gian để trang tài nguyên này có thể trở nên *tương đối đầy đủ*.
+
 *một kho công cụ và trang web hỗ trợ bạn học Tiếng Hàn*
 
 ## Từ vựng

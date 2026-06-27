@@ -2,6 +2,10 @@
 
 Nếu bạn đang học tiếng Hàn, có lẽ bạn đã biết rằng khoảng 60–70% từ vựng tiếng Hàn có nguồn gốc từ chữ Hán, được gọi là Hanja trong tiếng Hàn. Điều này có nghĩa là mặc dù chúng được viết bằng Hangul, nhưng về mặt nguồn gốc, chúng cũng có thể được viết bằng chữ Hán. Vậy thì sao? Vì hiện nay hầu như không còn ai sử dụng chữ Hán trong đời sống hằng ngày ở Hàn Quốc nữa, liệu bạn có thật sự cần học không? Câu trả lời là: Có! Vì một lý do rất đơn giản: về lâu dài, việc này sẽ khiến mọi thứ trở nên dễ dàng hơn rất nhiều. Hãy xem nó như “đau ngắn hạn – lợi ích dài hạn”.
 
+![](img/hanja1.png)
+
+([nguồn ảnh](https://tienghanthaytu.com/tu-vung-han-han-lien-quan-den-chu/))
+
 ### Xàm xàm về lịch sử
 
 Từ rất lâu trước khi vua Sejong Đại Đế giới thiệu hệ thống chữ viết Hangul (và thực tế là trong nhiều thế kỷ sau đó), chữ viết Tiếng Hàn phụ thuộc vào chữ Hán. Ngay cả sau khi Hangul ra đời, chữ Hán vẫn được sử dụng phổ biến cho đến vài thập kỷ trước.

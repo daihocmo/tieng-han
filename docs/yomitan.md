@@ -35,7 +35,7 @@ Bạn có thể xem danh sách [từ điển Tiếng Hàn cho Yomitan](https://g
 
 ### Từ điển đơn ngữ (Hàn - Hàn)
 
-- [Monolingual.KRDICT.zip](https://github.com/Lyroxide/yomitan-ko-dic/releases/download/1.0.0/Monolingual.KRDICT.zip) 
+- [Monolingual.KRDICT.zip](https://github.com/Lyroxide/yomitan-ko-dic/releases/download/1.0.0/Monolingual.KRDICT.zip)
 - [Monolingual.STDICT.zip](https://github.com/Lyroxide/yomitan-ko-dic/releases/download/1.0.0/Monolingual.STDICT.zip)
 
 ## Cài đặt từ điển và sử dụng cơ bản
@@ -48,11 +48,11 @@ Bạn có thể xem danh sách [từ điển Tiếng Hàn cho Yomitan](https://g
 3. Chọn "Dictionaries" ở thanh sidebar bên trái rồi chọn "Configure installed and enabled dictionaries…"
 
     ![](img/yomi-setup2.jpg)
-    
+
 4. Bấm vào nút "Import" ở bên dưới.
 
     ![](img/yomi-setup3.jpg)
-    
+
 5. Giờ là lúc chọn các từ điển để import vào trong Yomitan (là các tệp `.zip` đó). Bạn có thể kéo thả hoặc bấm vào để chọn từ điển bạn đã tải xuống.
 6. Đợi các từ điển được thêm vào. Sẽ mất một lúc (Mình làm trên Firefox thấy lâu hơn so với bên Chromium)
 7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Hàn. Thử di chuột vào cái này xem: 한국어. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
