@@ -9,6 +9,8 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Hàn': 'guide.md'
+    - 'Phát âm Tiếng Hàn': 'phat-am.md'
+    - 'Nghe Tiếng Hàn': 'nghe.md'
     - 'Đọc Tiếng Hàn': 'doc.md'
     - 'Hướng dẫn đơn ngữ': 'don-ngu.md'
     - 'Kính ngữ': 'kinh-ngu.md'
@@ -52,6 +54,7 @@ theme:
     - search.suggest
     - search.highlighting
     - search.share
+  custom_dir: overrides/
   name: material
 
 markdown_extensions:

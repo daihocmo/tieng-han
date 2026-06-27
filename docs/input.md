@@ -1,4 +1,31 @@
-# Nội dung dễ hiểu
+# Nội dung Tiếng Hàn dễ hiểu
+
+## Đôi lời
+
+### Giải thích về cấp độ
+
+Mình sẽ chia nội dung ra làm 3 cấp độ khó
+
+1. Absolute Beginner (Người chưa biết gì - A0) - Bạn là một người chưa từng học Tiếng Anh, hoặc biết ít tới mức không biết gì cả.
+2. Beginner (Người mới bắt đầu - A1 & A2) - Cũng gọi là có chút Tiếng Anh, khoảng hai ba trăm từ vựng với tí kiến thức ngữ pháp học thời phổ thông.
+3. Intermediate (Gọi là biết biết - B1 & B2) - Bạn biết khoảng 1500-3000 từ vựng, đọc hiểu cũng tương đối ổn, nghe cũng gọi là oke, nhưng vẫn còn không ít chỗ khó hiểu.
+4. Advanced (Chúa quỷ - C1 & C2) - Lên C1 thì bạn dùng Tiếng Hàn là người ta sẽ gọi bạn bằng bố. Nói chung là giai đoạn này thì nội dung bình thường mà người Hàn xem nó cũng sẽ là *nội dung dễ hiểu* với bạn thôi (ít nhất là về mặt ngôn ngữ, chứ giờ bắt tui xem bài giảng Toán thi vào đại học ở bên Hàn thì tui không hiểu gì đâu).
+
+### Về quá trình học
+
+Khi bạn mới bắt đầu học (Nếu cần thì hãy đọc lại [Hướng dẫn tự học Tiếng Hàn](guide.md) của trang), thì bạn sẽ học mỗi thứ một ít, một chút ngữ pháp, một chút từ vựng, một chút kiến thức về văn hóa hay cách dùng từ này kia, và xem/nghe/đọc nhiều chút nội dung bằng Tiếng Hàn.
+
+Mỗi ngày, bạn hãy học từ vựng (nếu chưa học 1000 từ vựng cơ bản thì mình gợi ý bạn học, đọc Hướng dẫn tự học Tiếng Hàn để tìm hiểu thêm. Còn nếu học xong rồi thì học từ vựng từ chính nội dung bạn xem) cũng như ngữ pháp (Lên Youtube đầy, nhưng xem cho biết thôi chứ đừng làm bài tập)
+
+### Học từ vựng bằng Anki
+
+Xem qua cách cài đặt và dùng Anki (Chỉ cần xem 2 phút đầu là được):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJu15EneEAs?si=bG54QyzOuhBrbyB7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Cách học:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLnJ1l6f7mQ?si=tM3rOVE_XbFiGnf2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## NGHE (VIDEO & PODCAST)
 
@@ -96,9 +123,9 @@
 
 - [한국어는아일린 KoreanwithEilleen - pre-intermediate podcast](https://www.youtube.com/playlist?list=PLA_WsZ40FeU8xkjSRdoP2NniplSsdDA2o) - Podcast ở cấp độ tiền trung cấp, tốc độ nói tự nhiên hơn nhưng vẫn giữ từ vựng trong tầm kiểm soát.
 - [Talk to Me in Korean Yeji's podcast](https://www.youtube.com/playlist?list=PLbId6d40sjCE4wLBt7zBX4y8O-5hplwM3) - Podcast trò chuyện tự nhiên của cô Yeji từ đội ngũ TTMIK nổi tiếng (khoảng 2 tiếng nội dung).
-- [Talk to Me in Korean's Conversations for Learners](https://www.youtube.com/playlist?list=PLbId6d40sjCFJiPWODMnE0k9wdxwiluk7) - Chuỗi 7 tiếng hội thoại tự nhiên giữa người bản xứ với nhau nhưng được tinh chỉnh tốc độ phù hợp cho người học.
+- [Talk to Me in Korean's Conversations for Learners](https://www.youtube.com/playlist?list=PLbId6d40sjCFJiPWODMnE0k9wdxwiluk7) - Chuỗi 7 tiếng hội thoại tự nhiên giữa người Hàn với nhau nhưng được tinh chỉnh tốc độ phù hợp cho người học.
 - [Talk To Me In 100% Korean](https://www.youtube.com/playlist?list=PLczjoc7gbZbT6oOagh22dsulnfNqPEb3h) - Các tập podcast nói hoàn toàn bằng tiếng Hàn tự nhiên không chêm tiếng Anh dài 6 tiếng.
-- [한국어 con 앵덕 (Intermediate)](https://open.spotify.com/show/2sHNYEGaWdMi0jvY2AQ4nn) - Phiên bản nâng cao của kênh 앵덕, nói chuyện tốc độ bình thường như người bản xứ.
+- [한국어 con 앵덕 (Intermediate)](https://open.spotify.com/show/2sHNYEGaWdMi0jvY2AQ4nn) - Phiên bản nâng cao của kênh 앵덕, nói chuyện tốc độ bình thường như người Hàn.
 - [Alpha Korean Class's podcast](https://www.youtube.com/playlist?list=PLfqI8eTWsVi7v1Q4lM5dZ0TDIPngfT4DB) - Podcast luyện nghe tiếng Hàn trung cấp dài 4 tiếng, nội dung sâu sắc hơn.
 - [Inspiring Korean Podcast, Gachi](https://www.youtube.com/playlist?list=PLaxc8QTxUw00W-LD5_lMmzAMr0LrxVHib) - Kênh podcast truyền cảm hứng với các chủ đề tư duy, xã hội bằng tiếng Hàn trung cấp.
 - [Korean Lover (koreaneldo)'s Podcast](https://www.youtube.com/playlist?list=PL2--dHZH1f9GImj7xqcdsLrXaBxbWuGRL) - Các số podcast bàn luận đa dạng chủ đề đời sống Hàn Quốc.
@@ -106,7 +133,7 @@
 - [TV Garden](https://tv.garden/kr/) / [shopping channel / infomercials!](https://tv.garden/kr/) - Trang tổng hợp các stream truyền hình/kênh mua sắm trực tuyến miễn phí của Hàn Quốc. Thích hợp luyện nghe các câu từ lặp đi lặp lại khi review sản phẩm.
 - [Tìm kiếm từ khóa "룸 투어" (Room Tour) trên YouTube](https://tv.garden/kr/) - Xem các video review phòng/nhà của người Hàn (Ví dụ: [Một](https://www.youtube.com/watch?v=jFXF234R-y0), [Hai](https://www.youtube.com/watch?v=mtPMUPOQeTM), [Ba](https://www.youtube.com/watch?v=r5ANmjqUlHc), [Bốn](https://www.youtube.com/watch?v=Gm3HJlSk-yo)). Ngôn ngữ nói cực kỳ đời thường, tự nhiên và dễ bắt chước từ vựng gia dụng.
 - [Muzzy in Gondoland Korean](https://muzzyonline.com/catalog/search?category_id=15617) - Chương trình học ngôn ngữ hoạt hình kinh điển thế giới phiên bản tiếng Hàn (yêu cầu đăng ký tài khoản).
-- [2인1조](https://www.youtube.com/@2in1jo) - Các video tiểu phẩm hài tình huống kiểu kịch ứng biến, tốc độ nói nhanh và tự nhiên của người bản xứ.
+- [2인1조](https://www.youtube.com/@2in1jo) - Các video tiểu phẩm hài tình huống kiểu kịch ứng biến, tốc độ nói nhanh và tự nhiên của người Hàn.
 
 #### Webdrama ngắn (Phim ngắn/Kịch bản đời sống tốc độ bản xứ)
 

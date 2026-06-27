@@ -47,7 +47,7 @@ Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng
 
 Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
 
-Và thường thì rất khó để hiểu tại sao họ lại dùng _câu đó_ trong _tình huống kia_, hay _từ này_ thay vì _từ kia_. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+Và thường thì rất khó để hiểu tại sao họ lại dùng _câu đó_ trong _tình huống kia_, hay _từ này_ thay vì _từ kia_. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người Hàn.
 
 Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
 
@@ -138,7 +138,7 @@ Tuy nhiên, chỉ Active Recall thôi là chưa đủ. Bộ não cũng có xu h�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2AF8Y5AKbo?si=Y7VTpAQQBYH_GMZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Công cụ phổ biến nhất để áp dụng Active Recall kết hợp với SRS là Anki. Anki là một ứng dụng tương đối khó sử dụng nên trước khi bắt đầu, bạn nên xem một video hướng dẫn cơ bản cách sử dụng Anki (Để tải xuống ứng dụng, bạn truy cập [Trang tải xuống của Anki](https://apps.ankiweb.net/). Ứng dụng **hoàn toàn miễn phí** trên máy tính (Windows, MacOS hay Linux) và Android, trên iOS thì là **30 đô** (Mình thấy rất đáng tiền nên mọi người có thể cân nhắc mua nhé). Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là `[...]` (Kéo xuống là thấy nút Download)):
+Công cụ phổ biến nhất để áp dụng Active Recall kết hợp với SRS là Anki. Anki là một ứng dụng tương đối khó sử dụng nên trước khi bắt đầu, bạn nên xem một video hướng dẫn cơ bản cách sử dụng Anki (Để tải xuống ứng dụng, bạn truy cập [Trang tải xuống của Anki](https://apps.ankiweb.net/). Ứng dụng **hoàn toàn miễn phí** trên máy tính (Windows, MacOS hay Linux) và Android, trên iOS thì là **30 đô** (Mình thấy rất đáng tiền nên mọi người có thể cân nhắc mua nhé). Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là `[...]` (Chưa tìm được bộ nào ưng nên để tự làm, chờ nhé).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBu0BwjGuQ4?si=hYiWfhaCx87UyrTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -321,7 +321,7 @@ Phát âm là một kỹ năng được cải thiện dần theo thời gian th�
 
 Một trong những phương pháp phổ biến nhất để cải thiện phát âm là shadowing. Khi shadowing, bạn nghe một đoạn âm thanh ngắn và cố gắng lặp lại ngay sau người nói, bắt chước nhịp điệu, ngữ điệu và cách phát âm của họ.
 
-Mục tiêu không phải là đạt được phát âm hoàn hảo hay nghe giống người bản xứ. Mục tiêu là phát triển khả năng phát âm rõ ràng, tự nhiên và dễ hiểu.
+Mục tiêu không phải là đạt được phát âm hoàn hảo hay nghe giống người Hàn. Mục tiêu là phát triển khả năng phát âm rõ ràng, tự nhiên và dễ hiểu.
 
 Đừng quá ám ảnh với việc sửa từng lỗi phát âm nhỏ trong giai đoạn đầu. Việc tiếp xúc liên tục với tiếng Hàn thực tế thường mang lại nhiều lợi ích hơn việc dành hàng giờ phân tích các quy tắc phát âm.
 
@@ -369,7 +369,7 @@ Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng mà mình tiếp xúc 
 
 Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
 
-[Tham gia cộng đồng học trên Discord](join.md)
+[Tham gia cộng đồng học trên Discord](https://discord.gg/JMqmQqpmyK)
 
 ### Nguồn bài viết
 

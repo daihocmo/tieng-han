@@ -52,7 +52,7 @@ Nếu bạn muốn luyện nói từ sớm, hãy làm điều đó. Nếu bạn 
 
 Không có con số kỳ diệu.
 
-Khoảng vài nghìn từ phổ biến sẽ giúp bạn bắt đầu hiểu được nhiều nội dung đơn giản. Tuy nhiên, người bản xứ trưởng thành biết hàng chục nghìn từ.
+Khoảng vài nghìn từ phổ biến sẽ giúp bạn bắt đầu hiểu được nhiều nội dung đơn giản. Tuy nhiên, người Hàn trưởng thành biết hàng chục nghìn từ.
 
 Thay vì ám ảnh với một con số cụ thể, hãy tập trung vào việc liên tục mở rộng vốn từ vựng thông qua đọc và nghe.
 
@@ -120,11 +120,11 @@ Tuy nhiên, đây là một chủ đề phức tạp và rất khó hiểu chỉ
 
 Đây là một trong những đặc điểm quan trọng nhất của tiếng Hàn. Việc lựa chọn cách nói phù hợp phụ thuộc vào mối quan hệ, tuổi tác, địa vị xã hội và ngữ cảnh giao tiếp.
 
-Đừng cố ghi nhớ tất cả các quy tắc ngay từ đầu. Hãy tiếp xúc với tiếng Hàn thực tế và quan sát cách người bản xứ sử dụng các mức độ lịch sự khác nhau.
+Đừng cố ghi nhớ tất cả các quy tắc ngay từ đầu. Hãy tiếp xúc với tiếng Hàn thực tế và quan sát cách người Hàn sử dụng các mức độ lịch sự khác nhau.
 
 ### Tại sao người Hàn Quốc ít dùng đại từ "bạn"?
 
-Trong tiếng Hàn, người bản xứ thường tránh sử dụng đại từ ngôi thứ hai khi có thể.
+Trong tiếng Hàn, người Hàn thường tránh sử dụng đại từ ngôi thứ hai khi có thể.
 
 Thay vì nói "bạn", họ thường sử dụng tên riêng, chức danh hoặc đơn giản là lược bỏ chủ ngữ hoàn toàn nếu ngữ cảnh đã rõ ràng.
 
@@ -243,7 +243,7 @@ Thông thường là không.
 
 Mặc dù từ điển thường dịch 당신 là "bạn", người Hàn Quốc hiếm khi sử dụng nó như đại từ ngôi thứ hai trong giao tiếp hàng ngày.
 
-Trong thực tế, người bản xứ thường dùng tên riêng, chức danh, mối quan hệ hoặc đơn giản là bỏ hoàn toàn chủ ngữ nếu ngữ cảnh đã rõ ràng.
+Trong thực tế, người Hàn thường dùng tên riêng, chức danh, mối quan hệ hoặc đơn giản là bỏ hoàn toàn chủ ngữ nếu ngữ cảnh đã rõ ràng.
 
 Đây là lý do tại sao rất nhiều câu dịch trực tiếp từ tiếng Anh sang tiếng Hàn nghe không tự nhiên.
 
@@ -303,7 +303,7 @@ Khi học tiếng Hàn, đừng cố gắng xếp mọi cách nói lên một th
 
 Một trong những điều khiến người mới học ngạc nhiên là người Hàn Quốc rất ít khi nói từ "bạn".
 
-Trong tiếng Việt, chúng ta thường xuyên dùng "bạn", "anh", "chị", "em". Nhưng trong tiếng Hàn, người bản xứ thường tránh gọi trực tiếp người đối  diện bằng đại từ.
+Trong tiếng Việt, chúng ta thường xuyên dùng "bạn", "anh", "chị", "em". Nhưng trong tiếng Hàn, người Hàn thường tránh gọi trực tiếp người đối  diện bằng đại từ.
 
 Thay vào đó, họ thường:
 
